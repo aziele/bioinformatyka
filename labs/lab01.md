@@ -67,7 +67,7 @@ lab01/
 ## Zad. 5 - Kompresja i dekompresja plików/katalogów, pobieranie plików z internetu
 
 1. Skompresuj katalog `text_backup` poleceniem `tar -zcvf text_backup.tar.gz text_backup`
-   * Korzystając z dokumentacji, wyjaśnij, za co odpowiadają użyte przełączniki `-z`, `-c`, `-v`,  `-f`.
+   * Korzystając z dokumentacji, wyjaśnij, za co odpowiadają użyte opcje `-z`, `-c`, `-v`,  `-f`.
 2. Korzystając z polecenia `wget` pobierz skompresowane archiwum znajdujące się pod adresem http://www.combio.pl/files/sequences10.tar.gz
 3. Rozpakuj pobrany plik poleceniem `tar -zxvf sequences10.tar.gz`. Co otrzymałeś/aś?
 4. Usuń skompresowane archiwum `sequences10.tar.gz`.
@@ -152,7 +152,7 @@ A4K2U9  1433B_PONAB     246     Pongo abelii (Sumatran orangutan) (Pongo pygmaeu
 5. Wyświetl listę białek należących do człowieka uszeregowaną ze względu na długość sekwencji białka (rosnąco).
    > Wskazówka: Utwórz potok z polecenia `grep` i `sort`.
 6. Uszereguj listę, aby w obrębie każdego organizmu (rosnąco), nazwy białek były uszeregowane ze względu na długość sekwencji (malejąco).
-   > Wskazówka: Pojedyncze polecenie `sort` z dwoma przełącznikami `-k`.
+   > Wskazówka: Pojedyncze polecenie `sort` z dwoma opcjami `-k`.
 7. Użyj polecenia `cut`, aby wyświetlić tylko kolumnę zawierającą organizmy.
 8. Wyświetl kolumnę zawierającą organizmy, ale tak aby podana była tylko nazwa rodzajowa gatunku (pierwszy wyraz).
 9. Zmodyfikuj komendę #7, aby wyświetlić listę niepowtarzających się gatunków.
