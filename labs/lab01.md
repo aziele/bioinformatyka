@@ -29,11 +29,11 @@
 
 ## Zad. 3 - Tworzenie katalogów i plików
 
-1. Przejdź do katalogu domowego poleceniem `cd`.
+1. Przejdź do katalogu domowego poleceniem `cd` (po prostu `cd`).
 2. W katalogu domowym utwórz katalog `lab01`.
 3. Przejdź do katalogu `lab01` i utwórz w nim katalog `text`.
 4. Przejdź do katalogu `text` i utwórz w nim pusty plik `README.txt`.
-5. Otwórz plik `README.txt` w edytorze tekstu nano.
+5. Otwórz plik `README.txt` w edytorze tekstu *nano*.
    * W treści pliku wpisz `hello`. 
    * Zapisz zmiany w pliku.
    * Zakończ pracę z edytorem tekstu.
