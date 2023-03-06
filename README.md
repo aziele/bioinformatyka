@@ -7,20 +7,20 @@ Bioinformatyka, I rok
 | Lab | Data | Opis | Zadania |
 | :---: | --- | --- | :---: |
 | **01** | 28.02.2023 | Linux - podstawowe polecenia  | [lab01](./labs/lab01.md) |
-| **02** | 07.03.2023 | Wyszukiwanie rekordów: NCBI i ENA  | -  |
-| **03** | 14.03.2023 | Wyszukiwanie rekordów: PubMed i E-utilities  | - |
-| **04** | 21.03.2023 | Formaty rekordów sekwencji  | - |
-| **05** | 28.03.2023 | UniProt i ontologia genów  | - |
-| **06** | 04.04.2023 | Porównywanie dwóch sekwencji (DotPlot)  | - |
-| **07** | 18.04.2023 | Przyrównanie dwóch sekwencji (programowanie dynamiczne) | - |
-| **08** | 25.04.2023 | Matryce podstawień | - |
-| **09** | 09.05.2023 | Wyszukiwanie sekwencji podobnych (BLAST) | - |
-| **10** | 16.05.2023 | Przyrównywanie wielu sekwencji (MSA) | - |
-| **11** | 23.05.2023 | Adnotacje genomowe i analiza funkcjonalna | - |
-| **12** | 30.05.2023 | Przeglądarki genomowe | - |
-| **13** | 06.06.2023 | Analiza filogenetycza | - |
-| **14** | 13.06.2023 | Zadanie projektowe | -  |
-| **15** | 20.06.2023 | Zaliczenie ćwiczeń | -  |
+| **02** | 06.03.2023 | Wyszukiwanie rekordów: NCBI i ENA  | [lab02](./labs/lab02.md)  |
+| **03** | 13.03.2023 | Wyszukiwanie rekordów: PubMed i E-utilities  | - |
+| **04** | 20.03.2023 | Formaty rekordów sekwencji  | - |
+| **05** | 27.03.2023 | UniProt i ontologia genów  | - |
+| **06** | 03.04.2023 | Porównywanie dwóch sekwencji (DotPlot)  | - |
+| **07** | 17.04.2023 | Przyrównanie dwóch sekwencji (programowanie dynamiczne) | - |
+| **08** | 24.04.2023 | Matryce podstawień | - |
+| **09** | 08.05.2023 | Wyszukiwanie sekwencji podobnych (BLAST) | - |
+| **10** | 15.05.2023 | Przyrównywanie wielu sekwencji (MSA) | - |
+| **11** | 22.05.2023 | Adnotacje genomowe i analiza funkcjonalna | - |
+| **12** | 29.05.2023 | Przeglądarki genomowe | - |
+| **13** | 05.06.2023 | Analiza filogenetycza | - |
+| **14** | 12.06.2023 | Zadanie projektowe | -  |
+| **15** | 19.06.2023 | Zaliczenie ćwiczeń | -  |
 
 
 #### Sprawozdania
