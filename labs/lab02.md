@@ -90,7 +90,7 @@ Korzystając z zaawansowanego wyszukiwania (*Advanced*) skonstruuj zapytanie do 
 
 
 ## Zad. 8
-Korzystając z zaawansowanego wyszukiwania białkowej bazy NCBI skonstruuj zapytanie, aby znaleźć dokładnie pięć sekwencji białkowych genu o nazwie BRCA2 człowieka pochodzących z bazy *RefSeq*. 
+Korzystając z zaawansowanego wyszukiwania białkowej bazy NCBI skonstruuj zapytanie, aby znaleźć sekwencję białkowe genu o nazwie BRCA2 człowieka pochodzących z bazy *RefSeq*. 
 
 1. Podaj użyte zapytanie.
 2. Podaj numer dostępu znalezionych sekwencji białkowych.
@@ -118,7 +118,8 @@ Korzystając z zaawansowanego wyszukiwania znajdź w bazie *Gene* ludzki gen o n
 1. Podaj użyte zapytanie.
 2. Podaj identyfikator genu HFE w bazie Gene.
 3. Z ilu egzonów składa się ten gen?
-4. Ile wariantów splicingowych (transkryptów) ma ten gen (*mRNA and Protein(s)*)?
+4. Ile wariantów splicingowych (transkryptów) ma ten gen?
+   > Wskazówka: sekcja *mRNA and Protein(s)*.
 
 
 ## Zad. 11
