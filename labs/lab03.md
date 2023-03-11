@@ -142,7 +142,7 @@ Przy pomocy narzędzi `esearch`, `efetch`, `xtract` i `sort` utwórz jedno polec
 ```
 
 ## Zad. 12
-Skorzystaj z polecenia `efetch`, aby pobrać z bazy *protein* dwie sekwencje FASTA numerach dostępu: `NP_476567` i `NP_476565`.
+Skorzystaj z polecenia `efetch`, aby pobrać z bazy białkowej dwie sekwencje FASTA numerach dostępu: `NP_476567` i `NP_476565`.
 > Wskazówka: Skorzystaj z pomocy polecenia `efetch` (`efetch -help`).
 
 
@@ -159,4 +159,4 @@ esearch -db pubmed -query "schizophrenia"
 
 
 ## Zad. 14
-Korzystając z polecenia `elink`(https://www.ncbi.nlm.nih.gov/books/NBK179288/#chapter6.Writing_Commands_on_Multiple_Li) wyszukaj wszystkie sekwencje białkowe, o których mowa w artykułach o schizofrenii z ostatnich 30 dni. Podaj użyte polecenie oraz liczbę sekwencji.
+Korzystając z polecenia [elink](https://www.ncbi.nlm.nih.gov/books/NBK179288/#chapter6.Writing_Commands_on_Multiple_Li) wyszukaj wszystkie sekwencje białkowe, o których mowa w artykułach o schizofrenii z ostatnich 30 dni. Podaj użyte polecenie oraz liczbę sekwencji.
