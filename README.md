@@ -8,7 +8,7 @@ Bioinformatyka, I rok
 | :---: | --- | --- | :---: |
 | **01** | 28.02.2023 | Linux - podstawowe polecenia  | [lab01](./labs/lab01.md) |
 | **02** | 06.03.2023 | Wyszukiwanie rekordów: NCBI i ENA  | [lab02](./labs/lab02.md)  |
-| **03** | 13.03.2023 | Wyszukiwanie rekordów: PubMed i E-utilities  | - |
+| **03** | 13.03.2023 | Wyszukiwanie rekordów: PubMed i E-utilities  | [lab03](./labs/lab03.md) |
 | **04** | 20.03.2023 | Formaty rekordów sekwencji  | - |
 | **05** | 27.03.2023 | UniProt i ontologia genów  | - |
 | **06** | 03.04.2023 | Porównywanie dwóch sekwencji (DotPlot)  | - |
