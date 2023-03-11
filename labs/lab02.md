@@ -90,7 +90,7 @@ Korzystając z zaawansowanego wyszukiwania (*Advanced*) skonstruuj zapytanie do 
 
 
 ## Zad. 8
-Korzystając z zaawansowanego wyszukiwania białkowej bazy NCBI skonstruuj zapytanie, aby znaleźć sekwencję białkowe genu o nazwie BRCA2 człowieka pochodzących z bazy *RefSeq*. 
+Korzystając z zaawansowanego wyszukiwania białkowej bazy NCBI skonstruuj zapytanie, aby znaleźć sekwencje białkowe genu o nazwie BRCA2 pochodzące z człowieka i bazy *RefSeq*. 
 
 1. Podaj użyte zapytanie.
 2. Podaj numer dostępu znalezionych sekwencji białkowych.
