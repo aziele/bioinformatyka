@@ -159,4 +159,7 @@ esearch -db pubmed -query "schizophrenia"
 
 
 ## Zad. 14
-Korzystając z polecenia [elink](https://www.ncbi.nlm.nih.gov/books/NBK179288/#chapter6.Writing_Commands_on_Multiple_Li) wyszukaj wszystkie sekwencje białkowe, o których mowa w artykułach o schizofrenii z ostatnich 30 dni. Podaj użyte polecenie oraz liczbę sekwencji.
+Korzystając z polecenia [elink](https://www.ncbi.nlm.nih.gov/books/NBK179288/#chapter6.Writing_Commands_on_Multiple_Li) wyszukaj wszystkie sekwencje białkowe, o których mowa w artykułach o schizofrenii z ostatnich 30 dni. 
+
+1. Ile sekwencji znaleziono?
+2. Podaj użyte polecenie.
