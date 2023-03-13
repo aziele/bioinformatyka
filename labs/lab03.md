@@ -90,9 +90,11 @@ Przy użyciu poleceń Linuxa zmodyfikuj polecenie z poprzedniego zadania, aby od
 3. Wyświetl linie rekordów zaczynające się od `LOCUS` i uszereguj je ze względu na malejącą długość sekwencji.
 
    ```
-   LOCUS       XM_024450231            8606 bp    mRNA    linear   PRI 28-FEB-2021
-   LOCUS       XM_017023145            8537 bp    mRNA    linear   PRI 28-FEB-2021
-   LOCUS       NM_001351850            8506 bp    mRNA    linear   PRI 19-FEB-2021
+   LOCUS       XM_024450231            8653 bp    mRNA    linear   PRI 05-APR-2022
+   LOCUS       XM_017023144            8620 bp    mRNA    linear   PRI 05-APR-2022
+   LOCUS       XM_017023145            8584 bp    mRNA    linear   PRI 05-APR-2022
+   LOCUS       NM_001351850            8506 bp    mRNA    linear   PRI 07-FEB-2023
+   LOCUS       NM_014494               8491 bp    mRNA    linear   PRI 07-FEB-2023
    ...
    ```
 
@@ -123,9 +125,12 @@ esearch -db nucleotide -query "TNRC6A[Gene Name] AND Homo sapiens[Organism] AND 
 Dokończ trzecie polecenie, aby uzyskać poniższe wyniki:
 
 ```
-NM_014494       8491    mRNA    linear  human   2021/04/15
-XM_017023152    6771    mRNA    linear  human   2021/02/28
-XM_024450233    6828    mRNA    linear  human   2021/02/28
+NM_001351850   8506  mRNA  linear   Homo sapiens   2023/02/07
+NM_001330520   8344  mRNA  linear   Homo sapiens   2023/02/07
+NM_014494      8491  mRNA  linear   Homo sapiens   2023/02/07
+XM_047433944   7518  mRNA  linear   human          2022/04/05
+XM_047433943   7672  mRNA  linear   human          2022/04/05
+XM_047433942   7693  mRNA  linear   human          2022/04/05
 ...
 ```
 
@@ -133,11 +138,11 @@ XM_024450233    6828    mRNA    linear  human   2021/02/28
 Przy pomocy narzędzi `esearch`, `efetch`, `xtract` i `sort` utwórz jedno polecenie, które wyszuka w bazie `gene` wszystkie geny o nazwie BRCA2 u naczelnych, tak aby wyświetlić poniższą listę (tj. identyfikator, nazwa genu, organizm) uszeregowaną ze względu na nazwę organizmu.
 
 ```
-105726195   BRCA2   Aotus nancymaae
-100397509   BRCA2   Callithrix jacchus
-103267329   BRCA2   Carlito syrichta
-108310783   BRCA2   Cebus imitator
-105587897   BRCA2   Cercocebus atys
+105726195   BRCA2 Aotus nancymaae
+100397509   BRCA2 Callithrix jacchus
+103267329   BRCA2 Carlito syrichta
+108310783   BRCA2 Cebus imitator
+105587897   BRCA2 Cercocebus atys
 ...
 ```
 
