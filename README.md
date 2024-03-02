@@ -6,7 +6,7 @@ Bioinformatyka, I rok
 
 | Lab | Data | Opis | Zadania |
 | :---: | --- | --- | :---: |
-| **01** | 04.03.2024 | Linux - podstawowe polecenia  | - |
+| **01** | 04.03.2024 | Linux - podstawowe polecenia  | [lab01](./labs/lab01.md) |
 | **02** | 11.04.2024 | Wyszukiwanie rekordów: NCBI i ENA  | - |
 | **03** | 18.04.2024 | Wyszukiwanie rekordów: PubMed i E-utilities  | - |
 | **04** | 25.04.2024 | Formaty rekordów sekwencji  | - |
