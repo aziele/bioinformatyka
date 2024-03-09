@@ -7,8 +7,8 @@ Bioinformatyka, I rok
 | Lab | Data | Opis | Zadania |
 | :---: | --- | --- | :---: |
 | **01** | 04.03.2024 | Linux - podstawowe polecenia  | [lab01](./labs/lab01.md) |
-| **02** | 11.03.2024 | Wyszukiwanie rekordów: NCBI i ENA  | [lab02](./labs/lab02.md) |
-| **03** | 18.03.2024 | Wyszukiwanie rekordów: PubMed i E-utilities  | - |
+| **02** | 11.03.2024 | Przeszuwianie baz danych: NCBI i ENA  | [lab02](./labs/lab02.md) |
+| **03** | 18.03.2024 | Przeszukiwanie baz danych: PubMed i E-utilities  | - |
 | **04** | 25.03.2024 | Formaty rekordów sekwencji  | - |
 | **05** | 08.04.2024 | UniProt i ontologia genów  | - |
 | **06** | 15.04.2024 | Porównywanie dwóch sekwencji (DotPlot)  | - |
