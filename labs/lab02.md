@@ -86,7 +86,7 @@ Korzystając z zaawansowanego wyszukiwania (*Advanced*) skonstruuj zapytanie do 
 
 1. Ile rekordów znaleziono?
 2. Podaj użyte zapytanie (w polu *Search details*).
-3. Zmodyfikuj użyte zapytanie, aby wykluczyć sekwencje, które mają w tytule frazy `insulin-like` lub `partial` lub `part`). Podaj użyte zapytanie.
+3. Zmodyfikuj użyte zapytanie, aby wykluczyć sekwencje, które mają w tytule frazy `insulin-like` lub `partial` lub `part`. Podaj użyte zapytanie.
 
 
 ## Zad. 8
