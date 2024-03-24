@@ -183,7 +183,7 @@ W pliku [ecoli.fasta](../data/ecoli.fasta) znajdują się sekwencje wszystkich b
 
 Wynik:
 
-```bash
+```
 aa  count   percent
 A   154307  9.41
 C   19097   1.16
