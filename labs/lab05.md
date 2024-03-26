@@ -131,35 +131,14 @@ W serwisie UniProt użyj zaawansowanego wyszukiwania i utwórz zapytanie, aby zn
 # Python
 
 ## Zad. 10
-W serwisie UniProt wyszukaj i pobierz w formacie FASTA wszystkie białka należące do drożdży *Saccharomyces cerevisiae*. Napisz program w Pythonie, który zliczy częstość występowania każdego aminokwasu w pobranych sekwencjach.
+W serwisie UniProt wyszukaj i pobierz w formacie FASTA wszystkie białka należące do drożdży *Saccharomyces cerevisiae*. Napisz program w Pythonie, który wyświetli minimalną, średnią i maksymalną długość sekwencji.
 
 Wynik:
 
 ```
-aa count   percent
-A  191231  5.56
-B  4       0.00
-C  43628   1.27
-D  196218  5.70
-E  221712  6.44
-F  154747  4.50
-G  177969  5.17
-H  73055   2.12
-I  225662  6.56
-K  246794  7.17
-L  323304  9.40
-M  74129   2.15
-N  215328  6.26
-P  149634  4.35
-Q  135430  3.94
-R  146558  4.26
-S  308348  8.96
-T  207121  6.02
-V  192458  5.59
-W  37479   1.09
-X  1483    0.04
-Y  118630  3.45
-Z  1       0.00
+Min  : ?
+Mean : ?
+Max  : ?
 ```
 
 ## Zad. 11 (dla chętnych)
