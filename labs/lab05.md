@@ -131,7 +131,10 @@ W serwisie UniProt użyj zaawansowanego wyszukiwania i utwórz zapytanie, aby zn
 # Python
 
 ## Zad. 10
-W serwisie UniProt wyszukaj i pobierz w formacie FASTA wszystkie białka należące do drożdży *Saccharomyces cerevisiae*. Napisz program w Pythonie, który wyświetli minimalną, średnią i maksymalną długość sekwencji.
+W serwisie UniProt wyszukaj i pobierz w formacie FASTA wszystkie białka należące do drożdży *Saccharomyces cerevisiae*. Napisz program, który wypisze identyfikatory rekordów mających identyczną sekwencję. Na przykład, identyczną sekwencję mają dwa rekordy `sp|P04824|MEL1_YEASX` i `tr|F4N9N8|F4N9N8_YEASX`.
+
+## Zad. 11
+Wykorzystując plik FASTA z poprzedniego zadania napisz program, który wyświetli minimalną, średnią i maksymalną długość sekwencji.
 
 Wynik:
 
@@ -140,6 +143,3 @@ Min  : ?
 Mean : ?
 Max  : ?
 ```
-
-## Zad. 11 (dla chętnych)
-Wykorzystując plik FASTA z poprzedniego zadania napisz program, który wypisze identyfikatory rekordów mających identyczną sekwencję. Na przykład, identyczną sekwencję mają dwa rekordy `sp|P04824|MEL1_YEASX` i `tr|F4N9N8|F4N9N8_YEASX`.
