@@ -57,8 +57,7 @@ Białko rycyna (*ricin*) pochodzące z rącznika pospolitego (*Ricinus communis*
 
 1. Podaj numer dostępu znalezionego białka.
 2. Jaka cząsteczka zostaje przerwana przez działanie rycyny? (panel `Function`)
-3. Jaka jest komórkowa lokalizacja rycyny?
-4. Jaka mutacja w sekwencji aminokwasowej rycyny niweluje jej toksyczne działanie? (`Phenotypes & Variants`)
+3. Jaka mutacja w sekwencji aminokwasowej rycyny niweluje jej toksyczne działanie? (`Phenotypes & Variants`)
 
 ## Zad. 5
 W serwisie UniProt wyszukaj wszystkie sekwencje białkowe, których długość nie przekracza 10 aminokwasów.
