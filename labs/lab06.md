@@ -77,7 +77,7 @@ Na poniższym wykresie dotplot porównano dwie sekwencje DNA przy użyciu poniż
 
 <img src="../images/dotplot-dna.png" alt="dotplot-dna" />
 
-Ile wynosi minimalny poziom identyczności (dla okna) porównywanych sekwencji? Uzasadnij swoją odpowiedź.
+Ile wynosi minimalny procent identyczności (dla okna) porównywanych sekwencji? Na przykład, jeżeli w obrębie okna zgadzają się `24` nukleotydy to punktacja wynosi `24 * 2 = 48`, natomiast procent identyczności sekwencji wynosi `24 / 25 * 100 = 96%`.
 
 
 ## Zad. 4
