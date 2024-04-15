@@ -3,7 +3,7 @@
 ## Zad. 1
 Korzystając z techniki dot-plot porównaj dwie sekwencje DNA wypełniając arkusz [data/dotplot.xlsx](../data/dotplot.xlsx). Wypełniony arkusz dołącz do sprawozdania.
 
-<img src="../images/dotplot-sheet.png" alt="dotplot-sheet.png" >
+<img src="../images/dotplot-sheet.png" alt="dotplot-sheet.png">
 
 # DotMatcher
 
