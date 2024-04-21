@@ -12,7 +12,7 @@ Bioinformatyka, I rok
 | **04** | 25.03.2024 | Formaty rekordów sekwencji  | [lab04](./labs/lab04.md) |
 | **05** | 08.04.2024 | UniProt i ontologia genów  | [lab05](./labs/lab05.md) |
 | **06** | 15.04.2024 | Porównywanie dwóch sekwencji (DotPlot)  | [lab06](./labs/lab06.md) |
-| **07** | 22.04.2024 | Przyrównanie dwóch sekwencji (programowanie dynamiczne) | - |
+| **07** | 22.04.2024 | Przyrównanie dwóch sekwencji (programowanie dynamiczne) | [lab07](./labs/lab07.md) |
 | **08** | 29.04.2024 | Matryce podstawień | - |
 | **09** | 06.05.2024 | Wyszukiwanie sekwencji podobnych (BLAST) | - |
 | **10** | 13.05.2024 | Przyrównywanie wielu sekwencji (MSA) | - |
