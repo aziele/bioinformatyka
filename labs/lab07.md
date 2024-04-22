@@ -54,11 +54,11 @@ Przyjmij system punktacji:
 * mismatch: `-1`
 * gap: `-2`
 
-W odpowiedzi podaj uzyskane dopasowania oraz wartość ich punktacji.
+W odpowiedzi podaj uzyskane przyrównanie oraz wartość jego punktacji.
 
 
 ## Zad. 4
-Wykonaj przyrównanie lokalne sekwencji z poprzedniego zadania (ten sam system punktacji) przy pomocy **algorytmu Smitha-Watermana**. W odpowiedzi podaj uzyskane dopasowanie oraz wartość jego punktacji.
+Wykonaj przyrównanie lokalne sekwencji z poprzedniego zadania (ten sam system punktacji) przy pomocy **algorytmu Smitha-Watermana**. W odpowiedzi podaj uzyskane przyrównanie oraz wartość jego punktacji.
 
 
 # Programy internetowe: needle i water
