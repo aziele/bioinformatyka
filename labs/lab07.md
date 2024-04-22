@@ -21,7 +21,25 @@ Odpowiedz na pytania:
    * *gap*: `-2`
 
 
+# Programowanie dynamiczne - algorytm
+
 ## Zad. 2
+Wykonaj przyrównanie globalne (na [wydruku](../data/dynamic_programming-template.pdf)) dwóch sekwencji DNA przy pomocy **algorytmu Needlemana-Wunscha**. 
+
+Przyjmij system punktacji: 
+
+* match: `+3`
+* mismatch: `-1`
+* gap: `-2`
+
+W odpowiedzi podaj uzyskane przyrównanie oraz wartość jego punktacji.
+
+
+## Zad. 3
+Wykonaj przyrównanie lokalne sekwencji z poprzedniego zadania (ten sam system punktacji) przy pomocy **algorytmu Smitha-Watermana**. W odpowiedzi podaj uzyskane przyrównanie oraz wartość jego punktacji.
+
+
+## Zad. 4
 Poniżej znajduje się przyrównanie dwóch sekwencji białkowych.
 
 ```
@@ -41,24 +59,6 @@ Odpowiedz na pytania:
 3. Ile wynosi procent *podobieństwa* przyrównywanych sekwencji?
 4. Podaj wartość *score* całego przyrównania przy zastosowaniu macierzy BLOSUM62 i kary za przerwę: `-10`.
 
-
-# Programowanie dynamiczne - algorytm
-
-
-## Zad. 3
-Wykonaj przyrównanie globalne (na [wydruku](../data/dynamic_programming-template.pdf)) dwóch sekwencji DNA przy pomocy **algorytmu Needlemana-Wunscha**. 
-
-Przyjmij system punktacji: 
-
-* match: `+3`
-* mismatch: `-1`
-* gap: `-2`
-
-W odpowiedzi podaj uzyskane przyrównanie oraz wartość jego punktacji.
-
-
-## Zad. 4
-Wykonaj przyrównanie lokalne sekwencji z poprzedniego zadania (ten sam system punktacji) przy pomocy **algorytmu Smitha-Watermana**. W odpowiedzi podaj uzyskane przyrównanie oraz wartość jego punktacji.
 
 
 # Programy internetowe: needle i water
