@@ -1,7 +1,7 @@
 <img src="../images/substitution_matrix.png" alt="substitution_matrix">
 
 ## Zad. 1
-Oblicz macierz substytucji aminokwasowych na podstawie 50 bloków sekwencji ([data/blocks.zip](../files/blocks.zip)). 
+Oblicz macierz substytucji aminokwasowych na podstawie 50 bloków sekwencji ([data/blocks.zip](../data/blocks.zip)). 
 
 Output:
 
