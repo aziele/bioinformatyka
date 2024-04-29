@@ -13,14 +13,13 @@ Bioinformatyka, I rok
 | **05** | 08.04.2024 | UniProt i ontologia genów  | [lab05](./labs/lab05.md) |
 | **06** | 15.04.2024 | Porównywanie dwóch sekwencji (DotPlot)  | [lab06](./labs/lab06.md) |
 | **07** | 22.04.2024 | Przyrównanie dwóch sekwencji (programowanie dynamiczne) | [lab07](./labs/lab07.md) |
-| **08** | 29.04.2024 | Matryce podstawień | - |
+| **08** | 29.04.2024 | Matryce podstawień | [lab08](./labs08.md) |
 | **09** | 06.05.2024 | Wyszukiwanie sekwencji podobnych (BLAST) | - |
 | **10** | 13.05.2024 | Przyrównywanie wielu sekwencji (MSA) | - |
 | **11** | 20.05.2024 | Adnotacje genomowe i analiza funkcjonalna | - |
 | **12** | 27.05.2024 | Przeglądarki genomowe | - |
 | **13** | 03.06.2024 | Analiza filogenetycza | - |
-| **14** | 10.06.2024 | Zajęcia projektowe | -  |
-| **15** | 17.06.2024 | Zaliczenie ćwiczeń | -  |
+| **14** | 10.06.2024 | Zaliczenie ćwiczeń | -  |
 
 #### Sprawozdania
 
