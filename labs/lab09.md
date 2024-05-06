@@ -214,5 +214,5 @@ Uruchomienie programu blastp:
 blastp -query query.fasta -db ecoli.fasta -outfmt 7
 ```
 
-1. Podaj procent identyczności i wartość *score* wszystkich trzech przyrównań.
+1. Podaj procent identyczności i wartość *score* wszystkich czterech przyrównań.
 2. Jak zmienia się wartość *E-value* w zależności od długości przyrównania z sekwencją zapytania?
