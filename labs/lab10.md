@@ -127,7 +127,7 @@ ADFYAD
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>14</td>
     <td></td>
   </tr>
   <tr>
@@ -246,6 +246,8 @@ ADFYAD
     <td></td>
   </tr>
 </table>
+
+Na przykład, walina (`V`) występuje 14 razy w pozycji `1`.
 
 Odpowiedz na pytania:
 
