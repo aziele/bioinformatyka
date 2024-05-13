@@ -29,7 +29,7 @@ clustalo -i myoglobins.fasta --outfmt=clu -o myoglobins.aln
    clustalo -i myoglobins.fasta --outfmt=clu -o myoglobins.aln --full --distmat-out=dist.txt
    ```
 
-   Między którymi parami sekwencji jest najmniejszy dystans i ile wynosi?
+   Między którymi parami sekwencji jest najmniejszy niezerowy dystans i ile wynosi?
 
 3. Wykonaj poniższe polecenie w celu obliczenia poziomu identyczności między sekwencjami. 
 
