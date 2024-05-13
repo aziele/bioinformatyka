@@ -9,7 +9,7 @@ W pliku [ube.fasta](../data/ube.fasta) znajdują się sekwencje białkowe aktywn
 4. Podaj procent identyczności sekwencji enzymu drożdżowego `UBC6_YEAST` (`P33296)` i sekwencji enzymu królika `UB2R2_RABIT` (`Q29503`)?
    > Wskazówka: `Result files` –> `Percent Identity Matrix`
 
-W bazie RefSeq istnieją dwa białka drożdży o numerach dostępu: `NP_588162` i `NP_011428`, które należą do tej samej rodziny białkowej, ale ale **nie posiadają** aktywności katalitycznej. Otwórz program ClustalOmega w nowej karcie przeglądarki i wykonaj przyrównanie sekwencji z pliku `ube.fasta` dodając do niego dwie sekwencje z drożdży.
+W bazie RefSeq istnieją dwa białka drożdży o numerach dostępu: `NP_588162` i `NP_011428`, które należą do tej samej rodziny białkowej, ale **nie posiadają** aktywności katalitycznej. Otwórz program ClustalOmega w nowej karcie przeglądarki i wykonaj przyrównanie sekwencji z pliku `ube.fasta` dodając do niego dwie sekwencje z drożdży.
 
 5. Jakie aminokwasy zostały zachowane w tym przyrównaniu?
 6. Porównaj wyniki obu przyrównań i podaj aminokwas kluczowy dla aktywności enzymu. Uzasadnij swoją odpowiedź.
