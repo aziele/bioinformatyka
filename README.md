@@ -15,7 +15,7 @@ Bioinformatyka, I rok
 | **07** | 22.04.2024 | Przyrównanie dwóch sekwencji (programowanie dynamiczne) | [lab07](./labs/lab07.md) |
 | **08** | 29.04.2024 | Matryce podstawień | [lab08](./labs/lab08.md) |
 | **09** | 06.05.2024 | Wyszukiwanie sekwencji podobnych (BLAST) | [lab09](./labs/lab09.md) |
-| **10** | 13.05.2024 | Przyrównywanie wielu sekwencji (MSA) | - |
+| **10** | 13.05.2024 | Przyrównywanie wielu sekwencji (MSA) | [lab10](./labs/lab10.md) |
 | **11** | 20.05.2024 | Adnotacje genomowe i analiza funkcjonalna | - |
 | **12** | 27.05.2024 | Przeglądarki genomowe | - |
 | **13** | 03.06.2024 | Analiza filogenetycza | - |
