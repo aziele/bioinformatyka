@@ -251,7 +251,7 @@ Na przykład, walina (`V`) występuje 14 razy w pozycji `1`.
 
 Odpowiedz na pytania:
 
-1. Jaka będzie wartość punktacji dla peptydu `ACGWAP`, jeżeli punktacja będzie oparta o wartości odpowiadające liczbie poszczególnych aminokwasów w każdej z pozycji?
+1. Jaka będzie wartość punktacji dla peptydu `ACGWAP`, jeżeli punktacja będzie sumą wartości odpowiadających liczbie poszczególnych aminokwasów w każdej z pozycji?
 2. Wygeneruj sekwencję sześciu aminokwasów, która będzie najbardziej podobna do sekwencji profilu. Podaj również wartość jej punktacji.
 
 
