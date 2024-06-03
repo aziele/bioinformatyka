@@ -150,7 +150,7 @@ Oblicz odległości w dopasowaniu par sekwencji analizowanych białek gp120 [gł
 
 
 ## Zad. 6
-W programie MEGA przeprowadź analizę filogenetyczną sekwencji 12s rRNA (niekodujące białka) znajdujących się w pliku [bears.fasta](../files/bears.fasta). Sekwencje pochodzą z 7 gatunków niedźwiedzi i 4 gatunków innych kręgowców.
+W programie MEGA przeprowadź analizę filogenetyczną sekwencji 12s rRNA (niekodujące białka) znajdujących się w pliku [bears.fasta](../data/bears.fasta). Sekwencje pochodzą z 7 gatunków niedźwiedzi i 4 gatunków innych kręgowców.
 
 ```
 1. Niedźwiedź czarny
